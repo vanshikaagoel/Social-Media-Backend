@@ -12,8 +12,6 @@ A full-featured backend for a social media application built with **Node.js**, *
 - **Mongoose (ODM)**
 - **REST API**
 - **bcrypt.js** (Password Hashing)
-- **JSON Web Tokens (JWT)** (Authentication)
-- **Multer** (File Uploads)
 - **dotenv** (Environment Configuration)
 - **Helmet** & **CORS** (Security Middleware)
 
